@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /config/
+Disallow: /.htaccess/
+Disallow: /img/
+Disallow: /myaccount/
+Disallow: /antibots.php/
+Disallow: /blocker.php/
+Disallow: /bt.php/
+Disallow: /bt1.php/
+Disallow: /index.php/
+Disallow: /rezlt.txt/
+Disallow: /robots.txt/
+Disallow: /vu.txt/
